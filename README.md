@@ -5,7 +5,7 @@
 ### About Me
 
 - **👀 Interests**: Data Science, Machine Learning, and Software Development.
-- **🌱 Currently Learning**: Advanced Machine Learning techniques and Software Development.
+- **🌱 Currently Learning**: Advanced Software Development.
 - **💞️ Collaboration**: Open to collaborating on business problem-solving projects and innovative tech solutions.
 - **📫 How to Reach Me**: 
   - Email: [ajay4saroha@gmail.com](mailto:ajay4saroha@gmail.com)
