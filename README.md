@@ -16,7 +16,7 @@
 ### My Skills
 
 - **Programming Languages**: Python, JavaScript, HTML, CSS, C/C++
-- **Frameworks & Libraries**: Node.js, Express.js, Scikit-learn, Bootstrap
+- **Frameworks & Libraries**: Node.js, Express.js, Scikit-learn, Bootstrap, React.js
 - **Databases**: MongoDB, MySQL
 - **Tools**: Git, GitHub, Codespaces
 - **Technologies**: Machine Learning, Data Analysis, Web Development
