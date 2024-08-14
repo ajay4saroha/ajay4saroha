@@ -16,7 +16,7 @@
 ### My Skills
 
 - **Programming Languages**: Python, JavaScript, HTML, CSS, C/C++
-- **Frameworks & Libraries**: Node.js, Express.js, Scikit-learn, Bootstrap, React.js
+- **Frameworks & Libraries**: Node.js, Express.js, Scikit-learn, Bootstrap, React.js, Next.js
 - **Databases**: MongoDB, MySQL
 - **Tools**: Git, GitHub, Codespaces
 - **Technologies**: Machine Learning, Data Analysis, Web Development
@@ -26,9 +26,10 @@
 
 ### Current Projects
 
-1.  **E-commerce Platform**: Developed a full-stack e-commerce application using Node.js, Express.js, MongoDB, and MySQL. Implemented user authentication, product management, and a shopping cart feature. Enhanced user experience with a responsive front-end design.
-2. **Cancer Prediction Web App**: Leveraging machine learning for early cancer detection. Achieved 89% accuracy using Naive Bayes algorithm and deployed using Django.
-3. **Customization of Computer Centre Website**: Integrated HR and online test sections using PHP for efficient candidate management and assessment processes.
+1. **GhostGram**: Developed using Next.js, this app allows users to send and receive anonymous messages, enhancing user privacy and interaction.
+2.  **TrendyCart**: Developed a full-stack e-commerce application using Node.js, Express.js, MongoDB, and MySQL. Implemented user authentication, product management, and a shopping cart feature. Enhanced user experience with a responsive front-end design.
+3. **Cancer Prediction Web App**: Leveraging machine learning for early cancer detection. Achieved 89% accuracy using Naive Bayes algorithm and deployed using Django.
+4. **Customization of Computer Centre Website**: Integrated HR and online test sections using PHP for efficient candidate management and assessment processes.
 
 ---
 
