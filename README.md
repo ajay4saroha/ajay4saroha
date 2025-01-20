@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Ajay Saroha (@ajay4saroha)
+# 👋 Hi, I’m Ajay Saroha (@ajay4saroha)
 
 ---
 
@@ -10,6 +10,18 @@
 - **📫 How to Reach Me**: 
   - Email: [ajay4saroha@gmail.com](mailto:ajay4saroha@gmail.com)
   - LinkedIn: [linkedin.com/in/ajay4saroha](https://www.linkedin.com/in/ajay4saroha)
+
+---
+
+### Work Experience
+
+- **Junior Software Developer** at **BeterCommerce Pvt Ltd**  
+  - Worked on various web applications and systems.
+  - Contributed to the development of key modules, optimizing performance and ensuring smooth user experiences.
+
+- **Software Trainee** at **BeterCommerce Pvt Ltd**  
+  - Gained hands-on experience in software development, particularly in full-stack technologies.
+  - Assisted in building and deploying applications, ensuring the implementation of best coding practices.
 
 ---
 
@@ -27,7 +39,7 @@
 ### Current Projects
 
 1. **GhostGram**: Developed using Next.js, this app allows users to send and receive anonymous messages, enhancing user privacy and interaction.
-2.  **TrendyCart**: Developed a full-stack e-commerce application using Node.js, Express.js, MongoDB, and MySQL. Implemented user authentication, product management, and a shopping cart feature. Enhanced user experience with a responsive front-end design.
+2. **TrendyCart**: Developed a full-stack e-commerce application using Node.js, Express.js, MongoDB, and MySQL. Implemented user authentication, product management, and a shopping cart feature. Enhanced user experience with a responsive front-end design.
 3. **Cancer Prediction Web App**: Leveraging machine learning for early cancer detection. Achieved 89% accuracy using Naive Bayes algorithm and deployed using Django.
 4. **Customization of Computer Centre Website**: Integrated HR and online test sections using PHP for efficient candidate management and assessment processes.
 
